@@ -11,6 +11,8 @@ A single store is definited by:
 - Last push
 - Last refresh
 
+Fields definitions below:
+
 ### ID
 It's the store unique identifier
 
@@ -29,3 +31,5 @@ Last time the store has pushed new data to the headoffice
 ### Last refresh
 Last time the store has received new data from the headoffice
 
+## Recommandations
+Use it carrefully :smile:
